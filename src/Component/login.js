@@ -6,7 +6,7 @@ function Login () {
       <form>
         <h3>Sign In</h3>
         <div className="mb-3">
-          <label>Email address</label>
+          <label>Email</label>
           <input
             type="email"
             className="form-control"
@@ -14,7 +14,7 @@ function Login () {
           />
         </div>
         <div className="mb-3">
-          <label>Password you can sign </label>
+          <label>Password  </label>
           <input
             type="password"
             className="form-control"
