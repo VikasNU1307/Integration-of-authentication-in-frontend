@@ -40,9 +40,9 @@ function SignUp () {
         </div>
         <p className="forgot-password text-right">
           Already registered
-          <button >
-            <a href="/sign-in">sign in?</a>
-          </button>
+          
+            <a href="/sign-in">  sign in?</a>
+          
         </p>
       </form>
     );
