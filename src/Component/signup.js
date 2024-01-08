@@ -39,8 +39,8 @@ function SignUp () {
           </button>
         </div>
         <p className="forgot-password text-right">
-          Already registered{' '}
-          <button type="button" className="btn-link">
+          Already registered
+          <button >
             <a href="/sign-in">sign in?</a>
           </button>
         </p>
