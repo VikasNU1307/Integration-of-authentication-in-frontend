@@ -18,7 +18,7 @@ function SignUp () {
           <input type="text" className="form-control" placeholder="Last name" />
         </div>
         <div className="mb-3">
-          <label>Email address</label>
+          <label>Email</label>
           <input
             type="email"
             className="form-control"
